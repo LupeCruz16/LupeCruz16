@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hello, I'm Lupe! 👋
 
-<!--
-**LupeCruz16/LupeCruz16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a Software Engineering student at California State University San Marcos (CSUSM), set to graduate in Fall 2023.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+- 🎓 **B.Sc. in Software Engineering**
+  - California State University San Marcos (CSUSM)
+  - Expected Graduation: Fall 2023
+
+## Experience
+
+- 💻 I have been involved in several software development projects, working with a variety of programming languages and frameworks.
+- 🤖 I'm particularly interested in AI, machine learning, and cloud computing.
+
+## Skills
+
+- **Programming Languages and Tools:**
+
+  ![Java](https://img.shields.io/badge/Code-Java-blue)
+  ![Visual Studio Code](https://img.shields.io/badge/Editor-Visual_Studio_Code-blue)
+  ![Web Development](https://img.shields.io/badge/Platform-Web-blue)
+  ![Linux](https://img.shields.io/badge/OS-Linux-blue)
+  ![Windows](https://img.shields.io/badge/OS-Windows-blue)
+  ![GitHub](https://img.shields.io/badge/Tools-GitHub-blue)
+ 
