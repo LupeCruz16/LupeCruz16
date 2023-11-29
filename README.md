@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Software Engineering student at California State University San Marcos (CSUSM), set to graduate in Fall 2023.
+I'm a Software Engineering student that finds himself loving programming more and more. I am currently working on developing internal tools at SigParser by leveraging the use of Large Language Models(LLMs).
 
 ## Education
 
