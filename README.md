@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Software Engineering student that finds himself loving programming more and more. I am currently working on developing internal tools at SigParser by leveraging the use of Large Language Models(LLMs).
+I'm a Software Engineering student that finds himself loving programming more and more. Currently, my focus is on developing internal tools at SigParser, where I harness the capabilities of Large Language Models (LLMs) to enhance productivity and efficiency.
 
 ## Education
 
