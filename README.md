@@ -6,7 +6,7 @@ I'm a Software Engineering student that finds himself loving programming more an
 
 ## Education
 
-- 🎓 **B.A. in Software Engineering**
+- 🎓 **B.S. in Software Engineering**
   - California State University San Marcos (CSUSM)
   - Expected Graduation: Fall 2024
 
