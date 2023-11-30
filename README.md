@@ -1,4 +1,4 @@
-# Hello, I'm Lupe! 👋
+# Hello, I'm Lupe! 
 
 ## About Me
 
@@ -19,16 +19,16 @@ I'm a Software Engineering student that finds himself loving programming more an
 
 - **Programming Languages and Tools:**
 
-  ![Java](https://img.shields.io/badge/Code-Java-blue)
-  ![AWS](https://img.shields.io/badge/Cloud-AWS-orange)
-  ![C++](https://img.shields.io/badge/Code-C++-blue)
-  ![Python](https://img.shields.io/badge/Code-Python-blue)
-  ![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue)
-  ![HTML5](https://img.shields.io/badge/Code-HTML5-blue)
-  ![PHP](https://img.shields.io/badge/Code-PHP-blue)
-  ![Visual Studio Code](https://img.shields.io/badge/Editor-Visual_Studio_Code-blue)
-  ![GitHub](https://img.shields.io/badge/Tools-GitHub-blue)
-  ![Web Development](https://img.shields.io/badge/Platform-Web-blue)
-  ![Linux](https://img.shields.io/badge/OS-Linux-blue)
-  ![Windows](https://img.shields.io/badge/OS-Windows-blue)
+  ![Java](https://img.shields.io/badge/Code-Java-2bbc8a)
+  ![AWS](https://img.shields.io/badge/Cloud-AWS-2bbc8a)
+  ![C++](https://img.shields.io/badge/Code-C++-2bbc8a)
+  ![Python](https://img.shields.io/badge/Code-Python-2bbc8a)
+  ![JavaScript](https://img.shields.io/badge/Code-JavaScript-2bbc8a)
+  ![HTML5](https://img.shields.io/badge/Code-HTML5-2bbc8a)
+  ![PHP](https://img.shields.io/badge/Code-PHP-2bbc8a)
+  ![Visual Studio Code](https://img.shields.io/badge/Editor-Visual_Studio_Code-2bbc8a)
+  ![GitHub](https://img.shields.io/badge/Tools-GitHub-2bbc8a)
+  ![Web Development](https://img.shields.io/badge/Platform-Web-2bbc8a)
+  ![Linux](https://img.shields.io/badge/OS-Linux-2bbc8a)
+  ![Windows](https://img.shields.io/badge/OS-Windows-2bbc8a)
  
