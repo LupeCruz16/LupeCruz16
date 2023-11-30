@@ -20,9 +20,15 @@ I'm a Software Engineering student that finds himself loving programming more an
 - **Programming Languages and Tools:**
 
   ![Java](https://img.shields.io/badge/Code-Java-blue)
+  ![AWS](https://img.shields.io/badge/Cloud-AWS-orange)
+  ![C++](https://img.shields.io/badge/Code-C++-blue)
+  ![Python](https://img.shields.io/badge/Code-Python-blue)
+  ![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue)
+  ![HTML5](https://img.shields.io/badge/Code-HTML5-blue)
+  ![PHP](https://img.shields.io/badge/Code-PHP-blue)
   ![Visual Studio Code](https://img.shields.io/badge/Editor-Visual_Studio_Code-blue)
+  ![GitHub](https://img.shields.io/badge/Tools-GitHub-blue)
   ![Web Development](https://img.shields.io/badge/Platform-Web-blue)
   ![Linux](https://img.shields.io/badge/OS-Linux-blue)
   ![Windows](https://img.shields.io/badge/OS-Windows-blue)
-  ![GitHub](https://img.shields.io/badge/Tools-GitHub-blue)
  
