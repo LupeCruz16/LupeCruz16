@@ -4,6 +4,7 @@
 
 I'm a Software Engineering student that finds himself loving programming more and more. Currently, my focus is on developing internal tools at SigParser, where I harness the capabilities of Large Language Models (LLMs) to enhance productivity and efficiency.
 
+Check out my portfolio: lupecruz16.github.io/ 
 ## Education
 
 - 🎓 **B.S. in Software Engineering**
