@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Software Engineering student that finds himself loving programming more and more. Currently, my focus is on developing internal tools at SigParser, where I harness the capabilities of Large Language Models (LLMs) to enhance productivity and efficiency.
+I'm a Software Engineering student that finds himself loving programming more and more. Currently, I work at the Zettler Group as a Software Engineering intern. 
 
 Check out my portfolio: <a href="https://guadalupecruz.com/" target="_blank">guadalupecruz.com</a>
  
