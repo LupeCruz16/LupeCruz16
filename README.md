@@ -10,7 +10,7 @@ Check out my portfolio: <a href="https://guadalupecruz.com/" target="_blank">gua
 
 - 🎓 **B.S. in Software Engineering**
   - California State University San Marcos (CSUSM)
-  - Expected Graduation: Fall 2024
+  - Graduating: Fall 2024
 
 ## Experience
 
