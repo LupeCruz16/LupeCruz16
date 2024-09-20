@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Software Engineering student that finds himself loving programming more and more. Currently, I work at the Zettler Group as a Software Engineering intern. 
+I'm find myself loving programming more and more. Currently, I'm studying at CSUSM and work at the Zettler Group as a Software Engineer. 
 
 Check out my portfolio: <a href="https://guadalupecruz.com/" target="_blank">guadalupecruz.com</a>
  
